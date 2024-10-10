@@ -1,2 +1,19 @@
-# meal_reminder_app
-The Meal Reminder App helps users manage their meal times by setting reminders. With a sleek dark theme, it features easy meal entry, local notifications for reminders, and a responsive design for all devices. Built with Flutter, this app ensures you never miss a meal, promoting healthier eating habits. Contributions are welcome!
+# Stateful Click Counter
+
+A new Flutter project created with FlutLab - https://flutlab.io
+
+## Getting Started
+
+A few resources to get you started if this is your first Flutter project:
+
+- https://flutter.dev/docs/get-started/codelab
+- https://flutter.dev/docs/cookbook
+
+For help getting started with Flutter, view our
+https://flutter.dev/docs, which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+## Getting Started: FlutLab - Flutter Online IDE
+
+- How to use FlutLab? Please, view our https://flutlab.io/docs
+- Join the discussion and conversation on https://flutlab.io/residents
